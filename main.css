@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    max-width: 800px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ h1 {
+    color: white;
+    background-color: #none;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 50px;
+
+ 
+}
+
+ p {
+    font-family: 'Suez One', serif;
+    background-color: none;
+    color: white;
+    font-size: 20px;
+    
+} 
+
+ 
+
+ h2 {
+    text-align:center;
+    color: white;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+
+a:link {
+    color: #FF0000;
+}
+
+
+a:visited {
+    color:#00FF00;
+}
+
+
+a:hover {
+    color:FF69B4;
+}
+
+a:active {
+    color:00FFFF;
+}
+
+
